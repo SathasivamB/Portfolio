@@ -1,0 +1,39 @@
+[debug] [2026-03-26T10:34:35.918Z] ----------------------------------------------------------------------
+[debug] [2026-03-26T10:34:35.921Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Sathasivam B\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2026-03-26T10:34:35.921Z] CLI Version:   15.11.0
+[debug] [2026-03-26T10:34:35.921Z] Platform:      win32
+[debug] [2026-03-26T10:34:35.921Z] Node Version:  v25.2.1
+[debug] [2026-03-26T10:34:35.921Z] Time:          Thu Mar 26 2026 16:04:35 GMT+0530 (India Standard Time)
+[debug] [2026-03-26T10:34:35.921Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Sathasivam B\Desktop\portfolio
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
+[debug] [2026-03-26T10:34:51.395Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-03-26T10:34:51.396Z] > authorizing via signed-in user (sathasivamb95@gmail.com)
+[debug] [2026-03-26T10:34:51.397Z] Checked if tokens are valid: false, expires at: 1774521425722
+[debug] [2026-03-26T10:34:51.398Z] Checked if tokens are valid: false, expires at: 1774521425722
+[debug] [2026-03-26T10:34:51.398Z] > refreshing access token with scopes: []
+[debug] [2026-03-26T10:34:51.400Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-03-26T10:34:51.400Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-03-26T10:34:54.128Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-03-26T10:34:54.129Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-03-26T10:34:54.140Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2026-03-26T10:34:55.370Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2026-03-26T10:34:55.370Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Don't want to scroll through all your projects? If you know your project ID, you can initialize it directly using firebase init --project <project_id>.
+ 
