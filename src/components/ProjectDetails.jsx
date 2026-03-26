@@ -80,8 +80,8 @@ const projectData = {
       "Understood how to deploy websites (Firebase).",
       "Learned how to structure and present projects professionally."
     ],
-    links: "https://www.google.com/",
-    github: "https://www.github.com/",
+    links: "https://satha-portfolio.web.app/",
+    github: "https://github.com/SathasivamB/Portfolio",
   },
 };
 
